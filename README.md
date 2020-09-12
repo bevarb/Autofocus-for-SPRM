@@ -9,10 +9,10 @@ and mainly use the perfect framework in the code (generator and discriminator).
 演示
 如何测试
 If you have train model and get an ".pth", you can use [get_result](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/plot/get_result.py) get autofocus result
-![](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/roi_defoucs.png)
-![](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/roi_foucs.png)
-![](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/total_defoucs.png)
-![](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/total_foucs.png)
+![defouc](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/roi_defoucs.png)
+![autofoucs](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/roi_foucs.png)
+![defocus](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/total_defoucs.png)
+![autofocus](https://github.com/bevarb/Autofocus-for-SPRM/blob/master/img_for_README/total_foucs.png)
 
 ### 2 - Train
 
