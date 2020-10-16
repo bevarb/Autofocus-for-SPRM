@@ -21,7 +21,7 @@ We mainly have two dataset, A and B. The A is target of B. We use the name of th
 
 A: 1-17
 
-B: 1-11、1-12...1-45
+B: 1-11、1-12...1-45  
 
 The number on the "-" left is the serial number, representing a different sequence.And the number on the
 "-" right is the id, representing a different focus image. So 1-XX -> 1-17, according to this relationship, 
